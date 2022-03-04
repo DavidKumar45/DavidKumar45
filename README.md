@@ -1,4 +1,4 @@
-[![Banner]<img src="https://github.com/DavidKumar45/DavidKumar45/blob/main/Screenshot_20220223-071325.png"/>
+<img src="https://github.com/DavidKumar45/DavidKumar45/blob/main/FB_IMG_16457821224633642.jpg"/>
 
 [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://nwombu-david.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/offsecexp)
