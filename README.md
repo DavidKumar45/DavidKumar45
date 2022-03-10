@@ -18,7 +18,7 @@ Want to know more about me? [Check out my portfolio.](https://bit.ly/nwombudavid
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latest Facebook hacking tool==Flash2](https://nwombudavid.blogspot.com/Fb hacking)
+- [Latest Facebook hacking tool==Flash2](https://nwombudavid.blogspot.com/2022/02/fb-hacking-latest-command.html?m=1)
 
 <!-- BLOG-POST-LIST:END -->
 
